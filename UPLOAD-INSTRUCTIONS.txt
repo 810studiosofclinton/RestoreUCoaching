@@ -1,0 +1,5 @@
+GitHub Pages upload instructions:
+1. Unzip this package first.
+2. Upload the extracted files themselves, not the zip file.
+3. Confirm index.html is visible at the repository root beside restoreu-logo.jpg and styles.css.
+4. In Settings > Pages, publish from the branch that contains index.html, folder /root.
